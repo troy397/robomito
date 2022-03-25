@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xF780EE134D8BB44A8097aD94779f3C5c2907cfBF",
+  "SCAN_LINK": "https://etherscan.io/address/0xF780EE134D8BB44A8097aD94779f3C5c2907cfBF",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Robomito",
+  "SYMBOL": "RNFT",
+  "MAX_SUPPLY":3333,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.gg/BcNnBguBxP",
+  "SHOW_BACKGROUND": true
+}
